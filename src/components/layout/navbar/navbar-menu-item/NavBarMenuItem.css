@@ -1,0 +1,11 @@
+.navBarMenuItem {
+  display: inline-block;
+  margin-right: 10px;
+}
+.navBarMenuItem a {
+  text-decoration: none;
+  color: #fff;
+}
+.navBarMenuItem a:hover {
+  opacity: 0.5;
+}

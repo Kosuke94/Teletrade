@@ -1,0 +1,23 @@
+.header {
+  background-color: #263238;
+}
+
+.header .container {
+  display: flex;
+  padding: 10px 20px;
+}
+.header .navMenu {
+  padding: 0;
+  flex-grow: 1;
+}
+.header .navMenu h2 {
+  display: inline-block;
+  vertical-align: baseline;
+  color: #fff;
+}
+.header .navMenu ul {
+  display: inline-block;
+}
+.header .loginButton {
+  align-self: center;
+}

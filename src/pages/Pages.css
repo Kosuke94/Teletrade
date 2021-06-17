@@ -1,0 +1,10 @@
+.page {
+  margin: 20px 0;
+}
+.profilePage a {
+  display: inline-block;
+  width: 100%;
+}
+.profilePage .contactSection {
+  margin-bottom: 20px;
+}
